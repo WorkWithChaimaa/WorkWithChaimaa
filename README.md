@@ -1,9 +1,8 @@
 # Hi there, I'm **El Aouad Chaimaa** 👋
 
 ## 👩‍💻 About Me
-I'm a highly motivated Artificial Intelligence student at **Nanjing University of Information Science and Technology, China**. I have a strong passion for **AI** and **Web Development**, particularly Front-End technologies. My experience includes collaborative team projects, spanning full-stack React applications, AI-based autonomous systems, and various web development initiatives. I am always eager to apply my skills to innovative projects.
-
----
+I'm a highly motivated ## Artificial Intelligence student at Nanjing University of Information Science and Technology (NUIST), China. My core interest lies in Artificial Intelligence, with a strong focus on machine learning, deep learning, and applied AI systems. I enjoy transforming data into intelligent solutions and building models that solve real-world problems.
+I have hands-on experience working on AI-driven projects, research-oriented coursework, and collaborative team environments. I’m particularly interested in bridging theory and practice, from data preprocessing and model design to evaluation and deployment.
 
 ### 🔭 Current Projects
 - 🎯 Developing a personal portfolio website to showcase my skills and projects.
