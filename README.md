@@ -1,21 +1,49 @@
 # Hi there, I'm **El Aouad Chaimaa** 👋
 
 ## 👩‍💻 About Me
-I'm a highly motivated ## Artificial Intelligence student at Nanjing University of Information Science and Technology (NUIST), China. My core interest lies in Artificial Intelligence, with a strong focus on machine learning, deep learning, and applied AI systems. I enjoy transforming data into intelligent solutions and building models that solve real-world problems.
+I'm a highly motivated Artificial Intelligence student at Nanjing University of Information Science and Technology (NUIST), China. My core interest lies in Artificial Intelligence, with a strong focus on machine learning, deep learning, and applied AI systems. I enjoy transforming data into intelligent solutions and building models that solve real-world problems.
 I have hands-on experience working on AI-driven projects, research-oriented coursework, and collaborative team environments. I’m particularly interested in bridging theory and practice, from data preprocessing and model design to evaluation and deployment.
 
-### 🔭 Current Projects
-- 🎯 Developing a personal portfolio website to showcase my skills and projects.
-- 🧠 Building an AI-powered social interaction chatbot for the web.
-- 💻 Collaborating on a social media platform to gain experience with full-stack development.
+### 🔭 Current Focus
+- 🧠 Designing and training machine learning and deep learning models for real-world applications
+- 🤖 Developing AI-powered systems (chatbots, prediction models, computer vision tasks)
+- 📊 Working with data-driven projects involving analysis, feature engineering, and model optimization
+- 🧪 Experimenting with different AI architectures and evaluation strategies
 
 ### 🌱 Currently Learning
-- Advanced concepts in React and modern web development practices.
-- Integrating AI models with web applications.
+- Advanced Machine Learning & Deep Learning techniques
+- Model optimization, evaluation, and interpretability
+- Integrating AI models into real-world applications
+- Practical applications of Computer Vision and NLP
 
 ### 👯 Open to Collaborate
-- I am open to collaborating on open-source projects related to React and Front-End Development.
-- I'm also interested in projects at the intersection of AI and web technologies.
+- AI & Machine Learning research projects
+- Deep Learning applications (Computer Vision, NLP, predictive modeling)
+- AI-driven real-world problem solving
+- Open-source projects related to Artificial Intelligence
+
+--- 
+
+## 💬 Ask Me About
+- AI & Machine Learning
+- Deep Learning concepts and implementations
+- Computer Vision & NLP basics
+- AI project development and experimentation
+- Applying AI models to practical use cases
+
+---
+
+## 🛠️ My Tech Stack
+
+### 🧠 Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- TensorFlow / Pytorch
+- OpenCV
+- NumPy & Pandas
+  
+### 💻 Programming Languages
+- Python
 
 ### 📫 How to Reach Me
 📧 chamitachomy29@gmail.com <br>
@@ -24,37 +52,9 @@ I have hands-on experience working on AI-driven projects, research-oriented cour
 She/Her
 
 ### ⚡ Fun Fact
-I love building things and solving challenging problems.
+I genuinely enjoy experimenting with models, tuning parameters, and watching data turn into intelligence 🚀
 
---- 
 
-## 💬 Ask Me About
-- AI & Machine Learning
-- Front-End Web Development
-- React
-- Full-stack Projects
-- Applying AI to Web Solutions
-
----
-
-## 🛠️ My Tech Stack
-
-### 💻 Programming Languages
-- JavaScript
-- Python
-
-### 🖥️ Front-End Web Development
-- HTML
-- CSS
-- React
-- Bootstrap
-
-### 🧠 Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- TensorFlow
-- OpenCV
-- NumPy & Pandas
 
 
 
